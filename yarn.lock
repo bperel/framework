@@ -2817,7 +2817,7 @@ __metadata:
     "@types/semver": ^7
     consola: ^2.15.3
     defu: ^5.0.1
-    dotenv: ^11.0.0
+    dotenv: ^14.0.1
     globby: ^12.0.2
     hash-sum: ^2.0.0
     jiti: ^1.12.9
@@ -9401,6 +9401,13 @@ __metadata:
   version: 11.0.0
   resolution: "dotenv@npm:11.0.0"
   checksum: 48df9e85ea1d41b3096afc1990b9b1bd966deb6c9e056cd43f14e755f3ef1e5d477c3b05afc7ca651e31320c26a9b7dc375bc3313777352c51e6a2f539ea1ffc
+  languageName: node
+  linkType: hard
+
+"dotenv@npm:^14.0.1":
+  version: 14.0.1
+  resolution: "dotenv@npm:14.0.1"
+  checksum: 8eb0be58c8c3f5affe95341bb8553a7984ee327779312ef58af5a6fc88cb3b03b64ece1ad035d90eadd61381b83d8ef016c880982e7dd49f3ef352b5dcb89772
   languageName: node
   linkType: hard
 
